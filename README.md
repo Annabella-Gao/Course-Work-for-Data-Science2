@@ -1,0 +1,1 @@
+I built a reproducible, end-to-end workflow that turns the UCI Bike Sharing (day.csv) data into actionable insights about how weather drives daily rental demand—moving from exploratory visuals to interpretable regression, then to a deployable classifier with threshold tuning.
